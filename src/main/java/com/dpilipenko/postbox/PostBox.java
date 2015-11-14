@@ -1,4 +1,4 @@
-package postbox;
+package com.dpilipenko.postbox;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,8 +8,6 @@ import org.subethamail.smtp.MessageHandlerFactory;
 import org.subethamail.smtp.helper.SimpleMessageListener;
 import org.subethamail.smtp.helper.SimpleMessageListenerAdapter;
 import org.subethamail.smtp.server.SMTPServer;
-
-import postbox.interfaces.IListener;
 
 public class PostBox {
 

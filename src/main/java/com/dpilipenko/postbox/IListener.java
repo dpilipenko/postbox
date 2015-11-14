@@ -1,4 +1,4 @@
-package postbox.interfaces;
+package com.dpilipenko.postbox;
 
 import org.subethamail.smtp.helper.SimpleMessageListener;
 
